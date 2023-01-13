@@ -4,11 +4,11 @@ A holistic health self assessment test, to be used as point in time view into yo
 
 ## Features ##
 
-* Self Assessment Heat Map
-* Curated Knowdledgebase of  ongoing scientific research
+* Self Assessment Health Radar Chart
+* Curated Knowledgebase of  ongoing scientific research
 
-# Four Pillars #
-
+# Four Pillars of the Mind Body Connection #
+**Take the test..**
 
 |---|---|---|---|
 | Diet | Mind | Exercise  | Sleep  | 
@@ -17,3 +17,6 @@ A holistic health self assessment test, to be used as point in time view into yo
 
 
 
+# Knowledgebase #
+
+More to come..
