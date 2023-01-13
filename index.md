@@ -1,13 +1,17 @@
-#WallHealth#
+# WallHealth #
 
 A holistic health self assessment test, to be used as point in time view into your own overall health. Intended only as a guiding tool for identifying areas for attention.
 
 ## Features ##
 
-Self Assessment Heat Map
-Curated Knowdledgebase of ongoing scientific research
+* Self Assessment Heat Map
+* Curated Knowdledgebase of  ongoing scientific research
 
-#Four Pillars#
+# Four Pillars #
 
-|---|---|---|---|---|
-|  Diet | Exercise | Sleep  |  Meditation  |  
+
+|---|---|---|---|
+| Diet | Exercise | Sleep  |  Meditation  | 
+
+
+
