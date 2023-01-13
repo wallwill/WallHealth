@@ -11,7 +11,7 @@ A holistic health self assessment test, to be used as point in time view into yo
 
 
 |---|---|---|---|
-| Diet | Exercise | Sleep  |  Meditation  | 
+| Diet | Mind | Exercise  | Sleep  | 
 
 ![Overall Health Radar](OverallHealth.png)
 
